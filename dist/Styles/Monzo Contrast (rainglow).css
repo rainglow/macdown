@@ -453,8 +453,8 @@
 
 html {
     font-family: 'Lato', sans-serif;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #0b1421;
+    color: #b0cbf4;
     font-size:0.9em;
 }
 
@@ -464,22 +464,22 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Libre Baskerville', serif;
-    color: #fc4d1f;
-    border-bottom: 1px solid #141414;
+    color: #98baa6;
+    border-bottom: 1px solid #152740;
     padding-bottom:0.4em;
 }
 
 pre, code {
     font-family: 'Fira Code', 'Hack', 'Source Code Pro', 'Monaco', monospace;
-    background-color: #080808;
-    color: #f2f2f2;
+    background-color: #0f1b2c;
+    color: #9abcf1;
     font-size: 0.9em;
     font-weight:normal;
 }
 
 pre {
     padding:1em;
-    border-left:1px solid #fdba2c;
+    border-left:1px solid #247888;
 }
 
 code {
@@ -487,11 +487,11 @@ code {
 }
 
 a, a:visited, a:active {
-    color:#fdba2c;
+    color:#247888;
 }
 
 a:hover {
-    color:#fdcb5e;
+    color:#2f9cb0;
 }
 
 body>p {
@@ -502,19 +502,19 @@ body>p {
 hr {
     border:0;
     height:1px;
-    background-color: #262626;
+    background-color: #1e375a;
     margin:2em auto;
     width: 80%;
 }
 
 ::-moz-selection {
     color: #ffffff;
-    background: #f87856;
+    background: #98baa6;
 }
 
 ::selection {
     color: #ffffff;
-    background: #f87856;
+    background: #98baa6;
 }
 
 ol {
@@ -531,7 +531,7 @@ ol li {
 }
 
 ul li::before {
-    color: #fdba2c;
+    color: #247888;
     content: "\25CE";
     font-size:0.8em;
     padding-right:1em;
@@ -539,7 +539,7 @@ ul li::before {
 
 
 blockquote {
-    border-left:3px solid #21c0fc;
+    border-left:3px solid #f63a4e;
     margin-left:1em;
     padding:0.1em 1em;
 }
